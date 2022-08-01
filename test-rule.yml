@@ -1,35 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@MMMMMine 
-tindy2013
-/
-subconverter
-Public
-Code
-Issues
-64
-Pull requests
-9
-Actions
-Projects
-1
-Wiki
-Security
-Insights
-subconverter/base/pref.example.yml
-@tindy2013
-tindy2013 Bugs fix
-…
-Latest commit a653e3a on 4 Oct 2021
- History
- 1 contributor
-151 lines (139 sloc)  5.22 KB
-
 common:
   api_mode: false
   api_access_token: password
